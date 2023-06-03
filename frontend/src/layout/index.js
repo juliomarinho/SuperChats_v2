@@ -267,7 +267,7 @@ const LoggedInLayout = ({ children }) => {
           >
             {greaterThenSm ? (
               <>
-                Olá, <b>{user.name}</b>! Seja bem vindo ao OneZape! 🤍💙
+                Olá, <b>{user.name}</b>! Seja bem vindo ao SuperChats! 🤍💙
               </>
             ) : (
               user.name
